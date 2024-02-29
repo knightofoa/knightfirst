@@ -28,7 +28,7 @@ typedef struct s_player
 }t_player;
 silver
 typedef struct s_img
-{
+{sfinkter
 	void	*empty;
 	void	*collectible;
 	void	*hui;
